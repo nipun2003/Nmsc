@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NMsc</string>
+
+    <string name="notification_channel_name">Music Channel</string>
+    <string name="notificaiton_channel_desc">Shows the currently playing song</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

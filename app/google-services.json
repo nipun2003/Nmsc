@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "809644125255",
+    "project_id": "sereter-61eb3",
+    "storage_bucket": "sereter-61eb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809644125255:android:a5ead63e1f67dddba69562",
+        "android_client_info": {
+          "package_name": "com.nipunapps.nmsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809644125255-h46n0kh80k7ehuajnvqsk7vodlh7ktcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjHXDrUZF2wVoQCyWIPb_KgNXJZIX8t4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809644125255-h46n0kh80k7ehuajnvqsk7vodlh7ktcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809644125255:android:aeff2559a9aceac9a69562",
+        "android_client_info": {
+          "package_name": "com.nipunapps.sereter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809644125255-h46n0kh80k7ehuajnvqsk7vodlh7ktcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjHXDrUZF2wVoQCyWIPb_KgNXJZIX8t4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809644125255-h46n0kh80k7ehuajnvqsk7vodlh7ktcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
